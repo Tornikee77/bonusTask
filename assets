@@ -1,0 +1,5 @@
+<script>start("c:\\development\\lecture9\\bonus-task-1\\assets\\");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("font","font",1,0,"0 B",1740572468,"2/26/25, 4:21:08 PM");</script>
+<script>addRow("img","img",1,0,"0 B",1740574665,"2/26/25, 4:57:45 PM");</script>
+<script>addRow("svg","svg",1,0,"0 B",1740597135,"2/26/25, 11:12:15 PM");</script>
